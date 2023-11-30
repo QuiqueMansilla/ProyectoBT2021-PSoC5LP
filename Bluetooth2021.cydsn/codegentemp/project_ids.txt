@@ -1,0 +1,6 @@
+C:\Users\usuario\OneDrive\Escritorio\ProyectoBT2021\Bluetooth2021.cydsn\Bluetooth2021.cyprj|1bf5dd74-1eb1-4163-9dc7-8f7a97a86efd
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|161dc989-d99a-4744-9f0a-d28e12c6e2c2
+C:\Users\usuario\OneDrive\Documentos\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|bda76e1d-4cc7-49bf-894d-944c04a761b4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|26cb993e-32a8-42c3-a067-af3e8dc69410
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|05a9984b-6f5a-4bae-9fe2-253e582b82fd
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|642b0f93-121b-40e5-aac6-30970e0ac0eb
